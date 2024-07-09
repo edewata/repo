@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.dogtagpki.jss</groupId>
+  <artifactId>jss-examples</artifactId>
+  <versioning>
+    <lastUpdated>20240709000426</lastUpdated>
+    <snapshot>
+      <timestamp>20240709.000426</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>5.6.0-20240709.000426-1</value>
+        <updated>20240709000426</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>5.6.0-20240709.000426-1</value>
+        <updated>20240709000426</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>5.6.0-SNAPSHOT</version>
+</metadata>
