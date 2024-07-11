@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.dogtagpki.pki</groupId>
+  <artifactId>pki-tools</artifactId>
+  <versioning>
+    <lastUpdated>20240711233222</lastUpdated>
+    <snapshot>
+      <timestamp>20240711.233222</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>11.5.2-20240711.233222-1</value>
+        <updated>20240711233222</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>11.5.2-20240711.233222-1</value>
+        <updated>20240711233222</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>11.5.2-SNAPSHOT</version>
+</metadata>
