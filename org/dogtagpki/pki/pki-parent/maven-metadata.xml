@@ -4,8 +4,8 @@
   <artifactId>pki-parent</artifactId>
   <versioning>
     <versions>
-      <version>11.5.2-SNAPSHOT</version>
+      <version>11.6.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20240712000221</lastUpdated>
+    <lastUpdated>20240712224421</lastUpdated>
   </versioning>
 </metadata>
