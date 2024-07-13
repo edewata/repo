@@ -4,8 +4,8 @@
   <artifactId>pki-server</artifactId>
   <versioning>
     <versions>
-      <version>11.5.3-SNAPSHOT</version>
+      <version>11.6.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20240713002025</lastUpdated>
+    <lastUpdated>20240713022823</lastUpdated>
   </versioning>
 </metadata>
