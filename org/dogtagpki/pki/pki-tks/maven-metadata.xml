@@ -4,8 +4,8 @@
   <artifactId>pki-tks</artifactId>
   <versioning>
     <versions>
-      <version>11.5.2-SNAPSHOT</version>
+      <version>11.5.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20240712233623</lastUpdated>
+    <lastUpdated>20240713002025</lastUpdated>
   </versioning>
 </metadata>
