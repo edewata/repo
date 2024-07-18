@@ -4,8 +4,8 @@
   <artifactId>pki-ocsp</artifactId>
   <versioning>
     <versions>
-      <version>11.6.0-SNAPSHOT</version>
+      <version>11.5.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20240718045727</lastUpdated>
+    <lastUpdated>20240718161947</lastUpdated>
   </versioning>
 </metadata>
