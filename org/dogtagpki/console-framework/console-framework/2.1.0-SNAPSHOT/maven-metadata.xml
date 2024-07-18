@@ -3,21 +3,21 @@
   <groupId>org.dogtagpki.console-framework</groupId>
   <artifactId>console-framework</artifactId>
   <versioning>
-    <lastUpdated>20240718152801</lastUpdated>
+    <lastUpdated>20240718154002</lastUpdated>
     <snapshot>
-      <timestamp>20240718.152801</timestamp>
+      <timestamp>20240718.154002</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.1.0-20240718.152801-1</value>
-        <updated>20240718152801</updated>
+        <value>2.1.0-20240718.154002-1</value>
+        <updated>20240718154002</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.1.0-20240718.152801-1</value>
-        <updated>20240718152801</updated>
+        <value>2.1.0-20240718.154002-1</value>
+        <updated>20240718154002</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
