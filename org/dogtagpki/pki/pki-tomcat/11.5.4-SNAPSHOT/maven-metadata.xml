@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.dogtagpki.pki</groupId>
+  <artifactId>pki-tomcat</artifactId>
+  <versioning>
+    <lastUpdated>20240808141548</lastUpdated>
+    <snapshot>
+      <timestamp>20240808.141548</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>11.5.4-20240808.141548-1</value>
+        <updated>20240808141548</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>11.5.4-20240808.141548-1</value>
+        <updated>20240808141548</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>11.5.4-SNAPSHOT</version>
+</metadata>
