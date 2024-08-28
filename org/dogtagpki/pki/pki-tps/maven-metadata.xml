@@ -4,8 +4,8 @@
   <artifactId>pki-tps</artifactId>
   <versioning>
     <versions>
-      <version>11.5.4-SNAPSHOT</version>
+      <version>11.6.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20240827184014</lastUpdated>
+    <lastUpdated>20240828195759</lastUpdated>
   </versioning>
 </metadata>
