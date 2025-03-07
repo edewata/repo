@@ -4,8 +4,8 @@
   <artifactId>pki-tomcat-9.0</artifactId>
   <versioning>
     <versions>
-      <version>11.7.0-SNAPSHOT</version>
+      <version>11.6.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250307031300</lastUpdated>
+    <lastUpdated>20250307161341</lastUpdated>
   </versioning>
 </metadata>
