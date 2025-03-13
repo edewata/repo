@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.dogtagpki.pki</groupId>
+  <artifactId>pki-parent</artifactId>
+  <versioning>
+    <lastUpdated>20250313184341</lastUpdated>
+    <snapshot>
+      <timestamp>20250313.184341</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>11.6.1-20250313.184341-1</value>
+        <updated>20250313184341</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>11.6.1-SNAPSHOT</version>
+</metadata>
