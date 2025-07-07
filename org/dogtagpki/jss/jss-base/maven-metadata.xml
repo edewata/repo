@@ -4,8 +4,8 @@
   <artifactId>jss-base</artifactId>
   <versioning>
     <versions>
-      <version>5.8.0-SNAPSHOT</version>
+      <version>5.9.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250707161449</lastUpdated>
+    <lastUpdated>20250707163310</lastUpdated>
   </versioning>
 </metadata>
