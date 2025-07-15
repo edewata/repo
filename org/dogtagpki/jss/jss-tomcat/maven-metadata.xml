@@ -4,8 +4,8 @@
   <artifactId>jss-tomcat</artifactId>
   <versioning>
     <versions>
-      <version>5.8.0-SNAPSHOT</version>
+      <version>5.9.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250715164533</lastUpdated>
+    <lastUpdated>20250715173015</lastUpdated>
   </versioning>
 </metadata>
