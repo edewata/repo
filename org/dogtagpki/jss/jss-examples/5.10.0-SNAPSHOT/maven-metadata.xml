@@ -3,21 +3,21 @@
   <groupId>org.dogtagpki.jss</groupId>
   <artifactId>jss-examples</artifactId>
   <versioning>
-    <lastUpdated>20260207015650</lastUpdated>
+    <lastUpdated>20260207020807</lastUpdated>
     <snapshot>
-      <timestamp>20260207.015650</timestamp>
+      <timestamp>20260207.020807</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>5.10.0-20260207.015650-1</value>
-        <updated>20260207015650</updated>
+        <value>5.10.0-20260207.020807-1</value>
+        <updated>20260207020807</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>5.10.0-20260207.015650-1</value>
-        <updated>20260207015650</updated>
+        <value>5.10.0-20260207.020807-1</value>
+        <updated>20260207020807</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
