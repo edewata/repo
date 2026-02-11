@@ -4,8 +4,8 @@
   <artifactId>jss-parent</artifactId>
   <versioning>
     <versions>
-      <version>5.10.0-SNAPSHOT</version>
+      <version>5.9.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20260210233449</lastUpdated>
+    <lastUpdated>20260211010033</lastUpdated>
   </versioning>
 </metadata>
