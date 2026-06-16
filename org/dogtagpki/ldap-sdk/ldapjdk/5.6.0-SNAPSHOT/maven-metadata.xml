@@ -3,21 +3,21 @@
   <groupId>org.dogtagpki.ldap-sdk</groupId>
   <artifactId>ldapjdk</artifactId>
   <versioning>
-    <lastUpdated>20260608223503</lastUpdated>
+    <lastUpdated>20260616172120</lastUpdated>
     <snapshot>
-      <timestamp>20260608.223503</timestamp>
+      <timestamp>20260616.172120</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>5.6.0-20260608.223503-1</value>
-        <updated>20260608223503</updated>
+        <value>5.6.0-20260616.172120-1</value>
+        <updated>20260616172120</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>5.6.0-20260608.223503-1</value>
-        <updated>20260608223503</updated>
+        <value>5.6.0-20260616.172120-1</value>
+        <updated>20260616172120</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
