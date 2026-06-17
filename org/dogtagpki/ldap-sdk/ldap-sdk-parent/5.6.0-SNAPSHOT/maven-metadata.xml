@@ -3,16 +3,16 @@
   <groupId>org.dogtagpki.ldap-sdk</groupId>
   <artifactId>ldap-sdk-parent</artifactId>
   <versioning>
-    <lastUpdated>20260617205328</lastUpdated>
+    <lastUpdated>20260617214742</lastUpdated>
     <snapshot>
-      <timestamp>20260617.205328</timestamp>
+      <timestamp>20260617.214742</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>5.6.0-20260617.205328-1</value>
-        <updated>20260617205328</updated>
+        <value>5.6.0-20260617.214742-1</value>
+        <updated>20260617214742</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
