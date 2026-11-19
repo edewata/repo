@@ -3,21 +3,21 @@
   <groupId>org.dogtagpki.jss</groupId>
   <artifactId>jss-tomcat-9.0</artifactId>
   <versioning>
-    <lastUpdated>20261118214234</lastUpdated>
+    <lastUpdated>20261119024326</lastUpdated>
     <snapshot>
-      <timestamp>20261118.214234</timestamp>
+      <timestamp>20261119.024326</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>5.9.1-20261118.214234-1</value>
-        <updated>20261118214234</updated>
+        <value>5.9.1-20261119.024326-1</value>
+        <updated>20261119024326</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>5.9.1-20261118.214234-1</value>
-        <updated>20261118214234</updated>
+        <value>5.9.1-20261119.024326-1</value>
+        <updated>20261119024326</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
